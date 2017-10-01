@@ -25,8 +25,8 @@
   },
   "contributors": [
     {
-        "name": "Ali Farhadi",
-        "email": "a.farhadi@gmail.com"
+      "name": "Ali Farhadi",
+      "email": "a.farhadi@gmail.com"
     }
   ],
   "directories": {
@@ -40,9 +40,9 @@
     "node": "0.6 || 0.7 || 0.8"
   },
   "dependencies": {
-    "mime":"1.2.5",
-    "request":"2.9.x",
-    "tar":">= 0.1.13"
+    "mime": "1.4.1",
+    "request": "2.9.x",
+    "tar": ">= 0.1.13"
   },
   "devDependencies": {},
   "optionalDependencies": {},
